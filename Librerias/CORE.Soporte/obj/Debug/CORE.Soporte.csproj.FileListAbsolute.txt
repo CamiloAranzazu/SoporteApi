@@ -8,3 +8,8 @@ C:\Users\camilo.aranzuza\Documents\Visual Studio 2015\Projects\Soporte\Librerias
 C:\Users\camilo.aranzuza\Documents\Visual Studio 2015\Projects\Soporte\Librerias\CORE.Soporte\obj\Debug\CORE.Soporte.csprojResolveAssemblyReference.cache
 C:\Users\camilo.aranzuza\Documents\Visual Studio 2015\Projects\Soporte\Librerias\CORE.Soporte\obj\Debug\CORE.Soporte.dll
 C:\Users\camilo.aranzuza\Documents\Visual Studio 2015\Projects\Soporte\Librerias\CORE.Soporte\obj\Debug\CORE.Soporte.pdb
+C:\Users\CAMILO.ARANZAZU\Documents\Proyecto Visual\Soporte\Librerias\CORE.Soporte\bin\Debug\CORE.Soporte.dll
+C:\Users\CAMILO.ARANZAZU\Documents\Proyecto Visual\Soporte\Librerias\CORE.Soporte\bin\Debug\CORE.Soporte.pdb
+C:\Users\CAMILO.ARANZAZU\Documents\Proyecto Visual\Soporte\Librerias\CORE.Soporte\obj\Debug\CORE.Soporte.csprojResolveAssemblyReference.cache
+C:\Users\CAMILO.ARANZAZU\Documents\Proyecto Visual\Soporte\Librerias\CORE.Soporte\obj\Debug\CORE.Soporte.dll
+C:\Users\CAMILO.ARANZAZU\Documents\Proyecto Visual\Soporte\Librerias\CORE.Soporte\obj\Debug\CORE.Soporte.pdb

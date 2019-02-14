@@ -42,7 +42,9 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="DataAccess\DA_ConceptosCalculadosReglasImp.cs" />
+    <Compile Include="DataAccess\DA_sop_auditoriacomponentes.cs" />
     <Compile Include="DTO\DTOconceptosReglasImp.cs" />
+    <Compile Include="DTO\DTOsop_auditoriacomponentes.cs" />
     <Compile Include="Infraestructura\BaseDatos.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
